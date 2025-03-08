@@ -8,3 +8,13 @@ Here are my socials!
   </a>
 </div>
 <br>
+
+### 💬 About Me :
+
+I'm currently an undergraduate student studying a Bachelor of Computer Science 
+
+- :telescope: I focus more .......
+
+- :seedling: I'm exploring the possibilites of ...............
+
+- :zap: Something about me ..........
