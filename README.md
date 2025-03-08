@@ -10,4 +10,3 @@ Here are my socials!
   </a>
 </div>
 <br>
----
